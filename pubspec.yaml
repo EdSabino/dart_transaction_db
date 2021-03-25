@@ -1,0 +1,11 @@
+name: voip_server
+description: Voip server
+version: 0.0.1
+author: sabino
+
+dependencies:
+  postgres: ^2.1.1
+  csv: ^4.1.0
+  
+dev_dependencies:
+  test: ^1.6.0
